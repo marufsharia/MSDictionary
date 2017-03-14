@@ -173,7 +173,7 @@ namespace MSDictionary
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MetroMessageBox.Show(this,"\n\nDevelpoed by: Marufsharia", "MSDictionaryt | About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MetroMessageBox.Show(this,"\n\nDevelpoed by: Marufsharia \n Database provided by: Mahmudul Hasan Shohag ", "MSDictionaryt | About", MessageBoxButtons.OK, MessageBoxIcon.Information);
            
         }
 
