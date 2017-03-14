@@ -18,6 +18,7 @@ namespace MSDictionary
     {
         SQLiteConnection m_dbConnection = null;
         Dictionary<string, List<string>> dic = new Dictionary<string, List<string>>();
+        bool key_press = true;
         public Form1()
         {
             InitializeComponent();
@@ -116,7 +117,11 @@ namespace MSDictionary
 
                     if (x != -1)
                     {
-                        lboxWord.TopIndex = x;
+                        if (key_press)
+                        {
+                            lboxWord.TopIndex = x;
+                        }
+                      //  lboxWord.TopIndex = x;
                         lboxWord.SetSelected(x, true);
                         return;
                     }
@@ -147,7 +152,9 @@ namespace MSDictionary
 
         private void lboxWord_MouseClick(object sender, MouseEventArgs e)
         {
-           // txtSearchWord.Text = lboxWord.SelectedItem.ToString();
+            key_press = false;
+            txtSearchWord.Text = lboxWord.SelectedItem.ToString();
+           
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -167,6 +174,37 @@ namespace MSDictionary
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MetroMessageBox.Show(this,"\n\nDevelpoed by: Marufsharia", "MSDictionaryt | About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+           
+        }
+
+        private void lboxWord_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Up)
+            {
+                key_press = false;
+                txtSearchWord.Text = textBox1.Text;
+            }
+            if (e.KeyCode == Keys.Down)
+            {
+                key_press = false;
+                txtSearchWord.Text = lboxWord.SelectedItem.ToString();
+            }
+        }
+        private void lboxWord_KeyPress(object sender, KeyPressEventArgs e)
+        {
+           
+                txtSearchWord.Text = lboxWord.SelectedItem.ToString();
+            
+        }
+
+        private void txtSearchWord_Click(object sender, EventArgs e)
+        {
+            key_press = true;
+        }
+
+        private void txtSearchWord_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            key_press = true;
         }
     }
 }

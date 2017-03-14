@@ -50,3 +50,46 @@ D:\Google Drive\C#_\Dictionary\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress
 D:\Google Drive\C#_\Dictionary\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
 D:\Google Drive\C#_\Dictionary\MSDictionary\MSDictionary\obj\Debug\MSDictionary.exe.licenses
 D:\Google Drive\C#_\Dictionary\MSDictionary\MSDictionary\bin\Debug\Bunifu_UI_v1.4.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\MSDictionary.exe.config
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.exe
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.pdb
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\MSDictionary.exe
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\MSDictionary.pdb
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\System.Data.SQLite.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Data.v16.1.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Utils.v16.1.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\System.Data.SQLite.pdb
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.csprojResolveAssemblyReference.cache
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.Form1.resources
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.Properties.Resources.resources
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.csproj.GenerateResource.Cache
+F:\WorkStation\MSTecSoft_Project\MSDictionary\MSDictionary\obj\Debug\MSDictionary.exe.licenses
